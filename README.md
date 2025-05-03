@@ -1,7 +1,3 @@
-Sure! Here's the same `README` content rewritten in **paragraph form**, suitable for GitHub:
-
-
-
 Weather Fetcher is a simple yet functional weather application that allows users to get real-time weather information for any city using the OpenWeatherMap API. This project is implemented in two versions: a web version built with HTML, CSS, and JavaScript, and a command-line interface (CLI) version built using Python.
 
 The web version features a responsive interface where users can input the name of a city and receive the current temperature, weather description, humidity, and wind speed. It uses the `fetch` API to call OpenWeatherMap's weather data and dynamically updates the page. To run the web version, simply open the `index.html` file in a browser after replacing `"YOUR_API_KEY_HERE"` in `script.js` with your actual API key.
