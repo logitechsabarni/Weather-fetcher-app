@@ -33,7 +33,7 @@ def get_weather(city, api_key):
 
 if __name__ == "__main__":
     print("=== Weather Fetcher CLI ===")
-    api_key = "YOUR_API_KEY_HERE"  # 🔐 Replace with your OpenWeatherMap API key
+    api_key = d115f23a624b085d038b53324cc67d2f  # 🔐 Replace with your OpenWeatherMap API key
     city = input("Enter city name: ").strip()
     if city:
         get_weather(city, api_key)
